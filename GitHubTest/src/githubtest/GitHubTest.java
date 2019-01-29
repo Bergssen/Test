@@ -18,4 +18,15 @@ public class GitHubTest {
         System.out.println("HejHej");
     }
     
+    
+    
+    
+    public void testMetod(){
+        
+        
+        System.out.println("TestarMetoden");
+        
+        
+    }
+    
 }
