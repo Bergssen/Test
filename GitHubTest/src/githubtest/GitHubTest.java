@@ -29,4 +29,14 @@ public class GitHubTest {
         
     }
     
+    public void testMetod(){
+        
+        
+        
+        
+        
+        
+        
+    }
+    
 }
