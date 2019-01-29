@@ -17,5 +17,9 @@ public class GitHubTest {
     public static void main(String[] args) {
         System.out.println("Hej");
     }
+    public void testMetod()
+    {
+        System.out.println("Jag heter Merrre");
+    }
     
 }
