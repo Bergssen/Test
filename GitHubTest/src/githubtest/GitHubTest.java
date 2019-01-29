@@ -21,7 +21,7 @@ public class GitHubTest {
     
     
     
-    public void testMetod(){
+    public void testMetodtwo(){
         
         
         System.out.println("TestarMetoden");
