@@ -26,4 +26,15 @@ public class GitHubTest {
         System.out.println("Jag heter Merrre");
     }
     
+    
+    
+    
+    public void testMetodtwo(){
+        
+        
+        System.out.println("TestarMetoden");
+        
+        
+    }
+    
 }
