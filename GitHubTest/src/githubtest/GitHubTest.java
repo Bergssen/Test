@@ -21,5 +21,9 @@ public class GitHubTest {
         System.out.println("Hej");
 
     }
+    public void testMetod()
+    {
+        System.out.println("Jag heter Merrre");
+    }
     
 }
